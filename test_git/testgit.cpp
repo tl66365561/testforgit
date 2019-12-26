@@ -7,8 +7,7 @@ using namespace std;
 int main(){
 
 
-
-cout<<"this is test for git pull"<<endl;
+test gor git pull;
 
 system("pause");
 return 0;
